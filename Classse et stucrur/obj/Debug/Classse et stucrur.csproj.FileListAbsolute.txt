@@ -1,0 +1,7 @@
+C:\Users\zlkha\Source\Repos\Classse et stucrur\Classse et stucrur\obj\Debug\Classse et stucrur.csprojResolveAssemblyReference.cache
+C:\Users\zlkha\Source\Repos\Classse et stucrur\Classse et stucrur\obj\Debug\Classse et stucrur.csproj.CoreCompileInputs.cache
+C:\Users\zlkha\Source\Repos\Classse et stucrur\Classse et stucrur\bin\Debug\Classse et stucrur.exe.config
+C:\Users\zlkha\Source\Repos\Classse et stucrur\Classse et stucrur\bin\Debug\Classse et stucrur.exe
+C:\Users\zlkha\Source\Repos\Classse et stucrur\Classse et stucrur\bin\Debug\Classse et stucrur.pdb
+C:\Users\zlkha\Source\Repos\Classse et stucrur\Classse et stucrur\obj\Debug\Classse et stucrur.exe
+C:\Users\zlkha\Source\Repos\Classse et stucrur\Classse et stucrur\obj\Debug\Classse et stucrur.pdb
